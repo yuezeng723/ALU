@@ -1,0 +1,177 @@
+# Reading E:/altera_lite/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do alu_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim ALTERA vmap 10.4d Lib Mapping Utility 2015.12 Dec 30 2015
+# vmap work rtl_work 
+# Copying E:/altera_lite/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/fa.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:37 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 00:18:37 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/rca.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:37 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/rca.v 
+# -- Compiling module rca
+# 
+# Top level modules:
+# 	rca
+# End time: 00:18:37 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/csa.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:37 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/csa.v 
+# -- Compiling module csa
+# 
+# Top level modules:
+# 	csa
+# End time: 00:18:37 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/mux_2to1.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:37 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/mux_2to1.v 
+# -- Compiling module mux_2to1
+# 
+# Top level modules:
+# 	mux_2to1
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/subtract.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/subtract.v 
+# -- Compiling module subtract
+# 
+# Top level modules:
+# 	subtract
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/sll.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/sll.v 
+# -- Compiling module sll
+# 
+# Top level modules:
+# 	sll
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/sra.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/sra.v 
+# -- Compiling module sra
+# 
+# Top level modules:
+# 	sra
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/and_for_alu.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/and_for_alu.v 
+# -- Compiling module and_for_alu
+# 
+# Top level modules:
+# 	and_for_alu
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/or_for_alu.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/or_for_alu.v 
+# -- Compiling module or_for_alu
+# 
+# Top level modules:
+# 	or_for_alu
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/zeng/Desktop/Project\ Files {C:/Users/zeng/Desktop/Project Files/alu_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 00:18:38 on Sep 20,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/zeng/Desktop/Project Files" C:/Users/zeng/Desktop/Project Files/alu_tb.v 
+# -- Compiling module alu_tb
+# 
+# Top level modules:
+# 	alu_tb
+# End time: 00:18:38 on Sep 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  alu_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" alu_tb 
+# Start time: 00:18:38 on Sep 20,2021
+# Loading work.alu_tb
+# Loading work.alu
+# Loading work.csa
+# Loading work.rca
+# Loading work.fa
+# Loading work.mux_2to1
+# Loading work.subtract
+# Loading work.sll
+# Loading work.sra
+# Loading work.and_for_alu
+# Loading work.or_for_alu
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(13): [PCDPC] - Port size (1) does not match connection size (32) for port 'cout'. The port definition is at: C:/Users/zeng/Desktop/Project Files/csa.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/csa1 File: C:/Users/zeng/Desktop/Project Files/csa.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(13): [PCDPC] - Port size (1) does not match connection size (32) for port 'overflow'. The port definition is at: C:/Users/zeng/Desktop/Project Files/csa.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/csa1 File: C:/Users/zeng/Desktop/Project Files/csa.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/csa.v(24): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/csa1/rca1 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/csa.v(25): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/csa1/rca2 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/csa.v(26): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/csa1/rca3 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(16): [PCDPC] - Port size (1) does not match connection size (32) for port 'cout'. The port definition is at: C:/Users/zeng/Desktop/Project Files/subtract.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1 File: C:/Users/zeng/Desktop/Project Files/subtract.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(16): [PCDPC] - Port size (1) does not match connection size (32) for port 'overflow'. The port definition is at: C:/Users/zeng/Desktop/Project Files/subtract.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1 File: C:/Users/zeng/Desktop/Project Files/subtract.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(16): [PCDPC] - Port size (1) does not match connection size (32) for port 'isNotEqual'. The port definition is at: C:/Users/zeng/Desktop/Project Files/subtract.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1 File: C:/Users/zeng/Desktop/Project Files/subtract.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/alu.v(16): [PCDPC] - Port size (1) does not match connection size (32) for port 'islessThan'. The port definition is at: C:/Users/zeng/Desktop/Project Files/subtract.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1 File: C:/Users/zeng/Desktop/Project Files/subtract.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/subtract.v(45): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1/rca1 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/subtract.v(46): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1/rca2 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# ** Warning: (vsim-3015) C:/Users/zeng/Desktop/Project Files/subtract.v(47): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/zeng/Desktop/Project Files/rca.v(2).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/subtract1/rca3 File: C:/Users/zeng/Desktop/Project Files/rca.v
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << Starting the Simulation >>
+# The simulation completed without errors
+# ** Note: $stop    : C:/Users/zeng/Desktop/Project Files/alu_tb.v(51)
+#    Time: 2480 ns  Iteration: 1  Instance: /alu_tb
+# Break in Module alu_tb at C:/Users/zeng/Desktop/Project Files/alu_tb.v line 51
+# End time: 00:28:30 on Sep 20,2021, Elapsed time: 0:09:52
+# Errors: 0, Warnings: 12

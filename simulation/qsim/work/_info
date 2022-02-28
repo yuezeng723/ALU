@@ -1,0 +1,290 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/zeng/Desktop/Project Files/simulation/qsim
+valu
+Z1 !s110 1632066752
+!i10b 1
+!s100 9>DljMiUnV2DYm?zcJV^z0
+Iz4fM^BjLNbVQnZ<lgoQ6H1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632066751
+Z3 8alu.vo
+Z4 Falu.vo
+Z5 L0 32
+Z6 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z7 !s108 1632066752.000000
+Z8 !s107 alu.vo|
+Z9 !s90 -work|work|alu.vo|
+!i113 1
+Z10 o-work work
+valu_vlg_vec_tst
+R1
+!i10b 1
+!s100 [NdX;I2i:ThHncLV=Udck1
+I9P`OTn<]1M0`6@:6_4D>C3
+R2
+R0
+w1632066749
+Z11 8or_for_alu_waveform.vwf.vt
+Z12 For_for_alu_waveform.vwf.vt
+Z13 L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 or_for_alu_waveform.vwf.vt|
+Z14 !s90 -work|work|or_for_alu_waveform.vwf.vt|
+!i113 1
+R10
+vand_for_alu
+Z15 !s110 1632062688
+!i10b 1
+!s100 f_bB7?4QV6K7N]nJe7F<O3
+I^[GzjkINQ9IkU9Y;C83f40
+R2
+R0
+w1632062686
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z16 !s108 1632062688.000000
+R8
+R9
+!i113 1
+R10
+vand_for_alu_vlg_vec_tst
+R15
+!i10b 1
+!s100 h?oKF6UESXKJ6Q;dJbF?93
+ICdCI_OMz?=A5FMd3T?BbR3
+R2
+R0
+w1632062685
+8and_for_alu_waveform.vwf.vt
+Fand_for_alu_waveform.vwf.vt
+R13
+R6
+r1
+!s85 0
+31
+R16
+!s107 and_for_alu_waveform.vwf.vt|
+!s90 -work|work|and_for_alu_waveform.vwf.vt|
+!i113 1
+R10
+vcsa
+!s110 1632060851
+!i10b 1
+!s100 EaB]D<nmDHZnDW^3U;R4U3
+IJG4JRDh`9>5hI_m]F2FZ;0
+R2
+R0
+w1632060850
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z17 !s108 1632060851.000000
+R8
+R9
+!i113 1
+R10
+vcsa_vlg_vec_tst
+!s110 1632060852
+!i10b 1
+!s100 fcZ>Z9469<NSjd=bRWgXK3
+IHTLf5g`eUbBCf:NYm?Hae3
+R2
+R0
+w1632060848
+8csaWaveform.vwf.vt
+FcsaWaveform.vwf.vt
+R13
+R6
+r1
+!s85 0
+31
+R17
+!s107 csaWaveform.vwf.vt|
+!s90 -work|work|csaWaveform.vwf.vt|
+!i113 1
+R10
+vfa
+Z18 !s110 1631891959
+!i10b 1
+!s100 EB7a;8XNz=SR;@j:=22gM1
+Ie7Y<KB07il87bf>zo29742
+R2
+R0
+w1631891955
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z19 !s108 1631891959.000000
+R8
+R9
+!i113 1
+R10
+vfa_vlg_vec_tst
+R18
+!i10b 1
+!s100 5TT[L>gCR1<6dYGPgFMSz0
+Iz5l;FIBikUm4_5l?fWWBK2
+R2
+R0
+w1631891954
+8fa_waveform.vwf.vt
+Ffa_waveform.vwf.vt
+R13
+R6
+r1
+!s85 0
+31
+R19
+!s107 fa_waveform.vwf.vt|
+!s90 -work|work|fa_waveform.vwf.vt|
+!i113 1
+R10
+vmux_2to1
+Z20 !s110 1631892560
+!i10b 1
+!s100 gf83DLKPNSQ4L<iboAPU72
+I3Ho0fhYP=0Y8HihkV<@gh1
+R2
+R0
+w1631892558
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z21 !s108 1631892560.000000
+R8
+R9
+!i113 1
+R10
+vmux_2to1_vlg_vec_tst
+R20
+!i10b 1
+!s100 Z3k[@DmhHIGbSm2CfVd^B3
+IgUHS4bMWbLOg@oMF:Lj>40
+R2
+R0
+w1631892557
+8mux_2to1_waveform.vwf.vt
+Fmux_2to1_waveform.vwf.vt
+R13
+R6
+r1
+!s85 0
+31
+R21
+!s107 mux_2to1_waveform.vwf.vt|
+!s90 -work|work|mux_2to1_waveform.vwf.vt|
+!i113 1
+R10
+vor_for_alu
+Z22 !s110 1632065429
+!i10b 1
+!s100 S5<F3]WcKL0i5QHoAl]6T0
+IL:`QmcNfGDETzejf>za_P1
+R2
+R0
+w1632065427
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z23 !s108 1632065429.000000
+R8
+R9
+!i113 1
+R10
+vor_for_alu_vlg_vec_tst
+R22
+!i10b 1
+!s100 ;3Pa3n:XV<:m2^U?C8`de2
+IV4a[f2?Sb]F;_J?^Um8`^0
+R2
+R0
+w1632065426
+R11
+R12
+R13
+R6
+r1
+!s85 0
+31
+R23
+!s107 or_for_alu_waveform.vwf.vt|
+R14
+!i113 1
+R10
+vsubtract
+Z24 !s110 1632060612
+!i10b 1
+!s100 ARg3D_G?6I3C3l:^:mBNH1
+IoM0JncG2ZXe93<FzmAaQ@2
+R2
+R0
+w1632060610
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z25 !s108 1632060612.000000
+R8
+R9
+!i113 1
+R10
+vsubtract_vlg_vec_tst
+R24
+!i10b 1
+!s100 ?5EIiXaKkOG:RVBhPEZY60
+I7ViYLe5;^W`:RAD4a9M>n0
+R2
+R0
+w1632060609
+8subtraction_Waveform.vwf.vt
+Fsubtraction_Waveform.vwf.vt
+R13
+R6
+r1
+!s85 0
+31
+R25
+!s107 subtraction_Waveform.vwf.vt|
+!s90 -work|work|subtraction_Waveform.vwf.vt|
+!i113 1
+R10

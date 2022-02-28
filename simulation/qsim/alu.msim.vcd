@@ -1,0 +1,360 @@
+$comment
+	File created using the following command:
+		vcd file alu.msim.vcd -direction
+$end
+$date
+	Sun Sep 19 23:52:33 2021
+$end
+$version
+	ModelSim Version 10.4d
+$end
+$timescale
+	1ps
+$end
+
+$scope module or_for_alu_vlg_vec_tst $end
+$var reg 32 ! data_operandA [31:0] $end
+$var reg 32 " data_operandB [31:0] $end
+$var wire 1 # data_result [31] $end
+$var wire 1 $ data_result [30] $end
+$var wire 1 % data_result [29] $end
+$var wire 1 & data_result [28] $end
+$var wire 1 ' data_result [27] $end
+$var wire 1 ( data_result [26] $end
+$var wire 1 ) data_result [25] $end
+$var wire 1 * data_result [24] $end
+$var wire 1 + data_result [23] $end
+$var wire 1 , data_result [22] $end
+$var wire 1 - data_result [21] $end
+$var wire 1 . data_result [20] $end
+$var wire 1 / data_result [19] $end
+$var wire 1 0 data_result [18] $end
+$var wire 1 1 data_result [17] $end
+$var wire 1 2 data_result [16] $end
+$var wire 1 3 data_result [15] $end
+$var wire 1 4 data_result [14] $end
+$var wire 1 5 data_result [13] $end
+$var wire 1 6 data_result [12] $end
+$var wire 1 7 data_result [11] $end
+$var wire 1 8 data_result [10] $end
+$var wire 1 9 data_result [9] $end
+$var wire 1 : data_result [8] $end
+$var wire 1 ; data_result [7] $end
+$var wire 1 < data_result [6] $end
+$var wire 1 = data_result [5] $end
+$var wire 1 > data_result [4] $end
+$var wire 1 ? data_result [3] $end
+$var wire 1 @ data_result [2] $end
+$var wire 1 A data_result [1] $end
+$var wire 1 B data_result [0] $end
+
+$scope module i1 $end
+$var wire 1 C gnd $end
+$var wire 1 D vcc $end
+$var wire 1 E unknown $end
+$var tri1 1 F devclrn $end
+$var tri1 1 G devpor $end
+$var tri1 1 H devoe $end
+$var wire 1 I data_result[0]~output_o $end
+$var wire 1 J data_result[1]~output_o $end
+$var wire 1 K data_result[2]~output_o $end
+$var wire 1 L data_result[3]~output_o $end
+$var wire 1 M data_result[4]~output_o $end
+$var wire 1 N data_result[5]~output_o $end
+$var wire 1 O data_result[6]~output_o $end
+$var wire 1 P data_result[7]~output_o $end
+$var wire 1 Q data_result[8]~output_o $end
+$var wire 1 R data_result[9]~output_o $end
+$var wire 1 S data_result[10]~output_o $end
+$var wire 1 T data_result[11]~output_o $end
+$var wire 1 U data_result[12]~output_o $end
+$var wire 1 V data_result[13]~output_o $end
+$var wire 1 W data_result[14]~output_o $end
+$var wire 1 X data_result[15]~output_o $end
+$var wire 1 Y data_result[16]~output_o $end
+$var wire 1 Z data_result[17]~output_o $end
+$var wire 1 [ data_result[18]~output_o $end
+$var wire 1 \ data_result[19]~output_o $end
+$var wire 1 ] data_result[20]~output_o $end
+$var wire 1 ^ data_result[21]~output_o $end
+$var wire 1 _ data_result[22]~output_o $end
+$var wire 1 ` data_result[23]~output_o $end
+$var wire 1 a data_result[24]~output_o $end
+$var wire 1 b data_result[25]~output_o $end
+$var wire 1 c data_result[26]~output_o $end
+$var wire 1 d data_result[27]~output_o $end
+$var wire 1 e data_result[28]~output_o $end
+$var wire 1 f data_result[29]~output_o $end
+$var wire 1 g data_result[30]~output_o $end
+$var wire 1 h data_result[31]~output_o $end
+$var wire 1 i data_operandB[0]~input_o $end
+$var wire 1 j data_operandA[0]~input_o $end
+$var wire 1 k or_for_alu[0].or_for_alu~combout $end
+$var wire 1 l data_operandA[1]~input_o $end
+$var wire 1 m data_operandB[1]~input_o $end
+$var wire 1 n or_for_alu[1].or_for_alu~combout $end
+$var wire 1 o data_operandB[2]~input_o $end
+$var wire 1 p data_operandA[2]~input_o $end
+$var wire 1 q or_for_alu[2].or_for_alu~combout $end
+$var wire 1 r data_operandA[3]~input_o $end
+$var wire 1 s data_operandB[3]~input_o $end
+$var wire 1 t or_for_alu[3].or_for_alu~combout $end
+$var wire 1 u data_operandB[4]~input_o $end
+$var wire 1 v data_operandA[4]~input_o $end
+$var wire 1 w or_for_alu[4].or_for_alu~combout $end
+$var wire 1 x data_operandB[5]~input_o $end
+$var wire 1 y data_operandA[5]~input_o $end
+$var wire 1 z or_for_alu[5].or_for_alu~combout $end
+$var wire 1 { data_operandB[6]~input_o $end
+$var wire 1 | data_operandA[6]~input_o $end
+$var wire 1 } or_for_alu[6].or_for_alu~combout $end
+$var wire 1 ~ data_operandA[7]~input_o $end
+$var wire 1 !! data_operandB[7]~input_o $end
+$var wire 1 "! or_for_alu[7].or_for_alu~combout $end
+$var wire 1 #! data_operandA[8]~input_o $end
+$var wire 1 $! data_operandB[8]~input_o $end
+$var wire 1 %! or_for_alu[8].or_for_alu~combout $end
+$var wire 1 &! data_operandA[9]~input_o $end
+$var wire 1 '! data_operandB[9]~input_o $end
+$var wire 1 (! or_for_alu[9].or_for_alu~combout $end
+$var wire 1 )! data_operandA[10]~input_o $end
+$var wire 1 *! data_operandB[10]~input_o $end
+$var wire 1 +! or_for_alu[10].or_for_alu~combout $end
+$var wire 1 ,! data_operandB[11]~input_o $end
+$var wire 1 -! data_operandA[11]~input_o $end
+$var wire 1 .! or_for_alu[11].or_for_alu~combout $end
+$var wire 1 /! data_operandB[12]~input_o $end
+$var wire 1 0! data_operandA[12]~input_o $end
+$var wire 1 1! or_for_alu[12].or_for_alu~combout $end
+$var wire 1 2! data_operandA[13]~input_o $end
+$var wire 1 3! data_operandB[13]~input_o $end
+$var wire 1 4! or_for_alu[13].or_for_alu~combout $end
+$var wire 1 5! data_operandA[14]~input_o $end
+$var wire 1 6! data_operandB[14]~input_o $end
+$var wire 1 7! or_for_alu[14].or_for_alu~combout $end
+$var wire 1 8! data_operandA[15]~input_o $end
+$var wire 1 9! data_operandB[15]~input_o $end
+$var wire 1 :! or_for_alu[15].or_for_alu~combout $end
+$var wire 1 ;! data_operandA[16]~input_o $end
+$var wire 1 <! data_operandB[16]~input_o $end
+$var wire 1 =! or_for_alu[16].or_for_alu~combout $end
+$var wire 1 >! data_operandB[17]~input_o $end
+$var wire 1 ?! data_operandA[17]~input_o $end
+$var wire 1 @! or_for_alu[17].or_for_alu~combout $end
+$var wire 1 A! data_operandB[18]~input_o $end
+$var wire 1 B! data_operandA[18]~input_o $end
+$var wire 1 C! or_for_alu[18].or_for_alu~combout $end
+$var wire 1 D! data_operandA[19]~input_o $end
+$var wire 1 E! data_operandB[19]~input_o $end
+$var wire 1 F! or_for_alu[19].or_for_alu~combout $end
+$var wire 1 G! data_operandB[20]~input_o $end
+$var wire 1 H! data_operandA[20]~input_o $end
+$var wire 1 I! or_for_alu[20].or_for_alu~combout $end
+$var wire 1 J! data_operandA[21]~input_o $end
+$var wire 1 K! data_operandB[21]~input_o $end
+$var wire 1 L! or_for_alu[21].or_for_alu~combout $end
+$var wire 1 M! data_operandB[22]~input_o $end
+$var wire 1 N! data_operandA[22]~input_o $end
+$var wire 1 O! or_for_alu[22].or_for_alu~combout $end
+$var wire 1 P! data_operandB[23]~input_o $end
+$var wire 1 Q! data_operandA[23]~input_o $end
+$var wire 1 R! or_for_alu[23].or_for_alu~combout $end
+$var wire 1 S! data_operandB[24]~input_o $end
+$var wire 1 T! data_operandA[24]~input_o $end
+$var wire 1 U! or_for_alu[24].or_for_alu~combout $end
+$var wire 1 V! data_operandB[25]~input_o $end
+$var wire 1 W! data_operandA[25]~input_o $end
+$var wire 1 X! or_for_alu[25].or_for_alu~combout $end
+$var wire 1 Y! data_operandA[26]~input_o $end
+$var wire 1 Z! data_operandB[26]~input_o $end
+$var wire 1 [! or_for_alu[26].or_for_alu~combout $end
+$var wire 1 \! data_operandA[27]~input_o $end
+$var wire 1 ]! data_operandB[27]~input_o $end
+$var wire 1 ^! or_for_alu[27].or_for_alu~combout $end
+$var wire 1 _! data_operandB[28]~input_o $end
+$var wire 1 `! data_operandA[28]~input_o $end
+$var wire 1 a! or_for_alu[28].or_for_alu~combout $end
+$var wire 1 b! data_operandB[29]~input_o $end
+$var wire 1 c! data_operandA[29]~input_o $end
+$var wire 1 d! or_for_alu[29].or_for_alu~combout $end
+$var wire 1 e! data_operandA[30]~input_o $end
+$var wire 1 f! data_operandB[30]~input_o $end
+$var wire 1 g! or_for_alu[30].or_for_alu~combout $end
+$var wire 1 h! data_operandA[31]~input_o $end
+$var wire 1 i! data_operandB[31]~input_o $end
+$var wire 1 j! or_for_alu[31].or_for_alu~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11111111111111111111111111111111 !
+b0 "
+1B
+1A
+1@
+1?
+1>
+1=
+1<
+1;
+1:
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+1/
+1.
+1-
+1,
+1+
+1*
+1)
+1(
+1'
+1&
+1%
+1$
+1#
+0C
+1D
+xE
+1F
+1G
+1H
+1I
+1J
+1K
+1L
+1M
+1N
+1O
+1P
+1Q
+1R
+1S
+1T
+1U
+1V
+1W
+1X
+1Y
+1Z
+1[
+1\
+1]
+1^
+1_
+1`
+1a
+1b
+1c
+1d
+1e
+1f
+1g
+1h
+0i
+1j
+1k
+1l
+0m
+1n
+0o
+1p
+1q
+1r
+0s
+1t
+0u
+1v
+1w
+0x
+1y
+1z
+0{
+1|
+1}
+1~
+0!!
+1"!
+1#!
+0$!
+1%!
+1&!
+0'!
+1(!
+1)!
+0*!
+1+!
+0,!
+1-!
+1.!
+0/!
+10!
+11!
+12!
+03!
+14!
+15!
+06!
+17!
+18!
+09!
+1:!
+1;!
+0<!
+1=!
+0>!
+1?!
+1@!
+0A!
+1B!
+1C!
+1D!
+0E!
+1F!
+0G!
+1H!
+1I!
+1J!
+0K!
+1L!
+0M!
+1N!
+1O!
+0P!
+1Q!
+1R!
+0S!
+1T!
+1U!
+0V!
+1W!
+1X!
+1Y!
+0Z!
+1[!
+1\!
+0]!
+1^!
+0_!
+1`!
+1a!
+0b!
+1c!
+1d!
+1e!
+0f!
+1g!
+1h!
+0i!
+1j!
+$end
+#1000000

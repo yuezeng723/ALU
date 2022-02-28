@@ -1,0 +1,241 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/zeng/Desktop/Project Files/simulation/modelsim
+valu
+Z1 !s110 1632068318
+!i10b 1
+!s100 CS5in8Ki1HAe^TSQQJW[]1
+IU9z2`a0eg0bjLg1emIaE>2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632068042
+8C:/Users/zeng/Desktop/Project Files/alu.v
+FC:/Users/zeng/Desktop/Project Files/alu.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1632068318.000000
+!s107 C:/Users/zeng/Desktop/Project Files/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/alu.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/zeng/Desktop/Project Files}
+valu_tb
+R1
+!i10b 1
+!s100 ekX@Y6GSOh1<RLi8QSfPj3
+I77NHcC_mS0QCAT2m<GTd=1
+R2
+R0
+w1632062168
+8C:/Users/zeng/Desktop/Project Files/alu_tb.v
+FC:/Users/zeng/Desktop/Project Files/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/alu_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/alu_tb.v|
+!i113 1
+R5
+R6
+vand_for_alu
+R1
+!i10b 1
+!s100 RUP4RWHc7ImiC]>8g2kjR0
+Ih>9V4KSloSZEi2hF2kXlR0
+R2
+R0
+w1632062545
+8C:/Users/zeng/Desktop/Project Files/and_for_alu.v
+FC:/Users/zeng/Desktop/Project Files/and_for_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/and_for_alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/and_for_alu.v|
+!i113 1
+R5
+R6
+vcsa
+Z7 !s110 1632068317
+!i10b 1
+!s100 8OUHJA6=<hBbz=LS4JgE12
+IVWSiemSbz4UT0bjCzMa]h3
+R2
+R0
+w1632067966
+8C:/Users/zeng/Desktop/Project Files/csa.v
+FC:/Users/zeng/Desktop/Project Files/csa.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1632068317.000000
+!s107 C:/Users/zeng/Desktop/Project Files/csa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/csa.v|
+!i113 1
+R5
+R6
+vfa
+R7
+!i10b 1
+!s100 mU?M17fAi=7eZY9nV`9zn0
+IkKk4dRlezg9`i`Of>XZc>3
+R2
+R0
+w1631851539
+8C:/Users/zeng/Desktop/Project Files/fa.v
+FC:/Users/zeng/Desktop/Project Files/fa.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/zeng/Desktop/Project Files/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/fa.v|
+!i113 1
+R5
+R6
+vmux_2to1
+R1
+!i10b 1
+!s100 8NEK8CZgUFflN>m0]4Q101
+I;22[kL5j@5]HQK?hB24^U2
+R2
+R0
+w1631895025
+8C:/Users/zeng/Desktop/Project Files/mux_2to1.v
+FC:/Users/zeng/Desktop/Project Files/mux_2to1.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/zeng/Desktop/Project Files/mux_2to1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/mux_2to1.v|
+!i113 1
+R5
+R6
+vor_for_alu
+R1
+!i10b 1
+!s100 eLMXI@;_J1IXML<]<J^Y?2
+IXeiQDmLhNncmK^[DdeQ2g3
+R2
+R0
+w1632062734
+8C:/Users/zeng/Desktop/Project Files/or_for_alu.v
+FC:/Users/zeng/Desktop/Project Files/or_for_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/or_for_alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/or_for_alu.v|
+!i113 1
+R5
+R6
+vrca
+R7
+!i10b 1
+!s100 eW:8XF`WDfz;9;mo9<_X@3
+Ifz1_[5mb@Z;0;iW4Fboc32
+R2
+R0
+w1631897643
+8C:/Users/zeng/Desktop/Project Files/rca.v
+FC:/Users/zeng/Desktop/Project Files/rca.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/zeng/Desktop/Project Files/rca.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/rca.v|
+!i113 1
+R5
+R6
+vsll
+R1
+!i10b 1
+!s100 QRQY6=>Onc@2gjRk?Oc1n0
+I[VAZPWcS?:_oIBYoB1mZm0
+R2
+R0
+w1632059769
+8C:/Users/zeng/Desktop/Project Files/sll.v
+FC:/Users/zeng/Desktop/Project Files/sll.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/sll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/sll.v|
+!i113 1
+R5
+R6
+vsra
+R1
+!i10b 1
+!s100 b`>jEaaUHiF=G0llb60e`2
+I3j4iIC8E`VXJY8e`CXki90
+R2
+R0
+w1632064608
+8C:/Users/zeng/Desktop/Project Files/sra.v
+FC:/Users/zeng/Desktop/Project Files/sra.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/sra.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/sra.v|
+!i113 1
+R5
+R6
+vsubtract
+R1
+!i10b 1
+!s100 ;7HHWg]:dWP?ad><@4Q??3
+IT?8zR>F2m8NfefVXz`o:B2
+R2
+R0
+w1632060411
+8C:/Users/zeng/Desktop/Project Files/subtract.v
+FC:/Users/zeng/Desktop/Project Files/subtract.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/zeng/Desktop/Project Files/subtract.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/zeng/Desktop/Project Files|C:/Users/zeng/Desktop/Project Files/subtract.v|
+!i113 1
+R5
+R6
